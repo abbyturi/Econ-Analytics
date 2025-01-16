@@ -31,14 +31,11 @@ This unconventional representation has sparked discussions, such as in [this thr
 
 ([see a tread in this stack overflow, for example](https://hsm.stackexchange.com/questions/140/why-is-price-on-the-vertical-axis-and-quantity-on-the-horizontal-axis/5255#5255?newreg=455d14da88e247898c8b42507ac665ca))that we are used to such representations of the curves for simplicity, but the graphs happen to vaguely be presented. Having a look at a demand curve, price is placed on the vertical axis and quantity on the horizontal, reversing the mathematical convention where the independent variable appears on the horizontal axis. This practice originated with economists like Alfred Marshall, who treated price as the dependent variable responding to changes in quantity. Despite its unconventional nature, this axis choice persists due to its alignment with traditional economic theory and teaching.
 
-Marshallian, Hicksian, and Slutsky demand curves representations and their theoretical foundations should suffice to understand such misrepresentations. 
-- **Marshallian Demand Curve**: Shows how quantity demanded changes with price, holding income constant.  
-- **Hicksian Demand Curve**: Reflects how quantity demanded changes with price, holding utility constant.  
-- **Slutsky Equation**: Decomposes a price change into substitution and income effects.  
-So, interesting question to ask from a visual point of view is: are the graphs flipped while quantity is clearly the result of price changes in these hard core economic theories that lay a foundation for the principles of economic thoughts today?
 
 
 ![](Hicksican_Marshalian_HTML.gif)
+Fig 1. Hicksican and Marshalian Demand Curves
+Source: Adapted from Silberberg, (2008)
 
 Greg from the  Economist had a response on "Who invented supply and demand?" through his blog post, where he stated: 
 
