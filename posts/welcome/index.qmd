@@ -8,13 +8,14 @@ categories: [news]
 
 ![](data_visualization.jpg)
 
-Data visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can obscure insights. Pearce (2022) emphasizes that thoughtfully breaking conventional visualization rules can enhance clarity and communication. Hence, striking a balance between creativity and best practices ensures visualizations effectively convey their intended message.
+Data visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can tilt insights. Pearce (2022), however, argues that thoughtfully breaking conventional visualization rules can enhance clarity and communication. In this article, I will be walking you through common visualization mistakes in the science of economics. 
 
-## Models and Graphs in Economics
+## The Use of Models and Graphs in Economics
 In economics, models are simplified representations of real-world scenarios based on underlying assumptions, while economic graphs serve to visualize and illustrate specific economic problems. In this context, we will examine common visualization practices and mistakes in economic theories, focusing on how effectively data is represented to capture and communicate complex economic phenomena. Some of the common mistakes raised around visualization of economic issues are misleading color contrast (and/or conceal), misleading charts, improper use of 3D graphics, wrong visualization method, confusing Correlations, vague charts, forcing a relationship by cherry-picking scales, over plotting (too much data), omitting baselines and truncating scale,zooming in on favorable data (biased representation), etc (see Bowers,n.d., Leo, 2019 and Pearce, 2022). The economist covered some of the major visualization issues they had in their analysis, some being intentionally overlooked in a bid for simplified communication of the topic to the general audience. See for example [this](https://medium.economist.com/why-you-sometimes-need-to-break-the-rules-in-data-viz-4d8ece284919) article by Rosamund Pearce of the Economist who presented the reasons to break the rules in data visualization  and other similar article by Sarah Leo on the visualization mistakes the Economist has made, [here](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368). 
 
 ## Flaws in Some Economic Graphical Representations
 At times, the visualization graphs in use might not be a direct representation of the underlying economic problem in a bid to either follow the norm or to attain simplified representation for pedagogical purposes.
+
 - Lorenz Curve: Oversimplifies inequality by failing to capture distribution changes effectively.  
 - Phillips Curve: Often misrepresents the inflation-unemployment relationship, especially in certain economic conditions.  
 - AD-AS Model: Oversimplifies complex market dynamics with smooth, unrealistic curves.  
@@ -42,7 +43,7 @@ Greg from the  Economist had a response on "Who invented supply and demand?" thr
 “...given the way we now teach supply and demand, it makes more sense to have price on the horizontal axis. The price is viewed as the variable that determines quantity supplied and quantity demanded, and we usually put the dependent variable (which here is quantity) on the vertical axis.”  Mankiw G. (September 27, 2006) 
 
 ## Concluding Remarks
-While mathematical formulations lay a foundation for presenting economic problems, other mathematical and visualization issues arise in the communications of core notions in science. Some are overlooked, while some persist in misleading the target audience about the underlying economic issue under consideration. Wrapping up, while many of the the visualizations remain as a guideline, reasonable deviation like color choice might be acceptable. Yet, the core foundations of the visual analytics should remain in tact for an effective communication of economic problems.
+While mathematical formulations lay a foundation for presenting economic problems, other mathematical and visualization issues arise in the communications of some of the core economic notions and theories. Some are overlooked, while some persist in misleading the target audience about the underlying economic issue. Wrapping up, while conventional presentations and norms in the field appear to be at ease to visualise economic problems, striking a balance between creativity and best practices ensures visualizations effectively convey their intended message. This should be with a due consideration that the core foundations of visual analytics remain in tact for an effective communication of economic problems.
 
 ## References
 1. Bowers  M. (n.d.). Numbers Shouldn't Lie: An Overview of Common Data Visualization Mistakes, Designers,  https://www.toptal.com/designers/ux/data-visualization-mistakes Accessed on November 10, 2022 
