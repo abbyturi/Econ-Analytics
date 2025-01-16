@@ -1,12 +1,30 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-01-13"
+title: "Common Mistakes in Data Visualization- Axes Swap"
+author: "Abeba Nigussie Turi"
+date: "2025-01-16"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Data visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can obscure insights.
 
-![](thumbnail.jpg)
+![](data_visualization.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+
+In economics, models are simplified representations of real-world scenarios based on underlying assumptions, while economic graphs serve to visualize and illustrate specific economic problems. In this context, we will examine common visualization practices and mistakes in economic theories, focusing on how effectively data is represented to capture and communicate complex economic phenomena. 
+
+In some cases, the visualization graphs in use might not be a direct representation of the underlying economic problem in a bid to either follow the norm or to attain simplified representation for pedagogical purposes.
+- Lorenz Curve: Oversimplifies inequality by failing to capture distribution changes effectively.  
+- Phillips Curve: Often misrepresents the inflation-unemployment relationship, especially in certain economic conditions.  
+- AD-AS Model: Oversimplifies complex market dynamics with smooth, unrealistic curves.  
+- Circular Flow Diagram: Ignores financial systems, global trade, and government intervention.  
+- Production Possibility Frontier (PPF): Assumes full efficiency, ignoring real-world limitations like resource imperfections.  
+- Supply and Demand Graphs: swaps the variables on the horizontal and vertical axis.
+
+Here, we will look into this by taking a use case from the graphical representation of the twin forces of the market.
+
+# Twin Forces of the Market
+Demand and supply curves represent the twin forces of the market, illustrating the relationship between price and quantity. However, from a design perspective, these graphs deviate from standard data visualization conventions for dependent and independent variable axis representation. Theoretically, according to the law of demand and supply, quantity is the dependent variable influenced by price changes, along with other non-own price determinants of demand and supply. Yet, these graphs commonly place price on the vertical axis, implying the reverse relationship.
+
+This unconventional representation has sparked discussions, such as in [this thread](https://hsm.stackexchange.com/questions/140/why-is-price-on-the-vertical-axis-and-quantity-on-the-horizontal-axis/5255#5255?newreg=455d14da88e247898c8b42507ac665ca) on Stack Exchange, suggesting that we have accepted these designs for their simplicity, even though they may lack clarity. The historical reasoning traces back to economists like Alfred Marshall, who treated price as the dependent variable, responding to changes in quantity. Despite its departure from data visualization and mathematical norms, this approach persists because it aligns with traditional economic theory and teaching practices.
+
+Pearce (2022) emphasizes that thoughtfully breaking conventional visualization rules can enhance clarity and communication. Striking a balance between creativity and best practices ensures visualizations effectively convey their intended message.
