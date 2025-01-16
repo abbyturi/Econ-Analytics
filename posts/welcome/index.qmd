@@ -6,7 +6,7 @@ categories: [news]
 ---
 
 
-![Visualization in Economics, @openai2025](Economicgraphs.jpg)
+![Visualization in Economics, @openai2025](Economicgraphs.jpg){width=400px}
 
 Data visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can tilt insights. @pearce2022a, however, argues that thoughtfully breaking conventional visualization rules can enhance clarity and communication. In this article, I will be walking you through common visualization mistakes in the science of economics. quart
 
