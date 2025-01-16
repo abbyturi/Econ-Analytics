@@ -4,7 +4,7 @@
     "href": "posts/welcome/index.html",
     "title": "Common Mistakes in Data Visualization- Axes Swap",
     "section": "",
-    "text": "visualization of Visualization in Economics, OpenAI. (2025)\nAI-generated visualization of aggregate demand, inflation, and economy, OpenAI (2025).\nData visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can tilt insights. Pearce (2022), however, argues that thoughtfully breaking conventional visualization rules can enhance clarity and communication. In this article, I will be walking you through common visualization mistakes in the science of economics."
+    "text": "Visualization in Economics, OpenAI (2025)\nData visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can tilt insights. Pearce (2022), however, argues that thoughtfully breaking conventional visualization rules can enhance clarity and communication. In this article, I will be walking you through common visualization mistakes in the science of economics. quart"
   },
   {
     "objectID": "posts/welcome/index.html#models-and-graphs-in-economics",
@@ -35,13 +35,6 @@
     "text": "Concluding Remarks\nWhile mathematical formulations lay a foundation for presenting economic problems, other mathematical and visualization issues arise in the communications few of the core economic notions and theories. Some of these issues are overlooked, while some persist in misleading the target audience about the underlying economic issue. Wrapping up, while conventional presentations and norms in the field appear to be at ease to visualize economic problems, striking a balance between creativity and best practices ensures visualizations effectively convey their intended message. This should be with a due consideration that the core foundations of visual analytics remain in tact for an effective communication of economic problems."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "blog1",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nCommon Mistakes in Data Visualization- Axes Swap\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nAbeba Nigussie Turi\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -49,10 +42,10 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog1",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Common Mistakes in Data Visualization- Axes Swap\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nAbeba Nigussie Turi\n\n\n\n\n\n\nNo matching items"
   }
 ]
