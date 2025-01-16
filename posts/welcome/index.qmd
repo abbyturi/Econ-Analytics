@@ -6,7 +6,8 @@ categories: [news]
 ---
 
 
-![](Economicgraphs.jpg)
+![visualization of Visualization in Economics, OpenAI. (2025)](Economicgraphs.jpg)
+
 AI-generated visualization of aggregate demand, inflation, and economy, @openai2025.
 
 Data visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can tilt insights. @pearce2022a, however, argues that thoughtfully breaking conventional visualization rules can enhance clarity and communication. In this article, I will be walking you through common visualization mistakes in the science of economics. 
@@ -44,9 +45,9 @@ This unconventional representation has sparked discussions, such as in [this thr
 
 
 
-![](Hicksican_Marshalian_HTML.gif)
-Fig 1. Hicksican and Marshalian Demand Curves
-Source: Adapted from @silberberg2008
+![Fig 1. Hicksican and Marshalian Demand Curves, adapted from @silberberg2008](Hicksican_Marshalian_HTML.gif)
+
+
 
 Greg from the  Economist had a response on "Who invented supply and demand?" through his blog post, where he stated: 
 
