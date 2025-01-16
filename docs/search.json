@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Common Mistakes in Data Visualization- Axes Swap",
+    "section": "",
+    "text": "Data visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can obscure insights.\n\nIn economics, models are simplified representations of real-world scenarios based on underlying assumptions, while economic graphs serve to visualize and illustrate specific economic problems. In this context, we will examine common visualization practices and mistakes in economic theories, focusing on how effectively data is represented to capture and communicate complex economic phenomena.\nIn some cases, the visualization graphs in use might not be a direct representation of the underlying economic problem in a bid to either follow the norm or to attain simplified representation for pedagogical purposes. - Lorenz Curve: Oversimplifies inequality by failing to capture distribution changes effectively.\n- Phillips Curve: Often misrepresents the inflation-unemployment relationship, especially in certain economic conditions.\n- AD-AS Model: Oversimplifies complex market dynamics with smooth, unrealistic curves.\n- Circular Flow Diagram: Ignores financial systems, global trade, and government intervention.\n- Production Possibility Frontier (PPF): Assumes full efficiency, ignoring real-world limitations like resource imperfections.\n- Supply and Demand Graphs: swaps the variables on the horizontal and vertical axis.\nHere, we will look into this by taking a use case from the graphical representation of the twin forces of the market.\n\nTwin Forces of the Market\nDemand and supply curves represent the twin forces of the market, illustrating the relationship between price and quantity. However, from a design perspective, these graphs deviate from standard data visualization conventions for dependent and independent variable axis representation. Theoretically, according to the law of demand and supply, quantity is the dependent variable influenced by price changes, along with other non-own price determinants of demand and supply. Yet, these graphs commonly place price on the vertical axis, implying the reverse relationship.\nThis unconventional representation has sparked discussions, such as in this thread on Stack Exchange, suggesting that we have accepted these designs for their simplicity, even though they may lack clarity. The historical reasoning traces back to economists like Alfred Marshall, who treated price as the dependent variable, responding to changes in quantity. Despite its departure from data visualization and mathematical norms, this approach persists because it aligns with traditional economic theory and teaching practices.\nPearce (2022) emphasizes that thoughtfully breaking conventional visualization rules can enhance clarity and communication. Striking a balance between creativity and best practices ensures visualizations effectively convey their intended message."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog1",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nCommon Mistakes in Data Visualization- Axes Swap\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nAbeba Nigussie Turi\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]

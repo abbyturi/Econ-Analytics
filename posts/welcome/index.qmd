@@ -28,3 +28,9 @@ Demand and supply curves represent the twin forces of the market, illustrating t
 This unconventional representation has sparked discussions, such as in [this thread](https://hsm.stackexchange.com/questions/140/why-is-price-on-the-vertical-axis-and-quantity-on-the-horizontal-axis/5255#5255?newreg=455d14da88e247898c8b42507ac665ca) on Stack Exchange, suggesting that we have accepted these designs for their simplicity, even though they may lack clarity. The historical reasoning traces back to economists like Alfred Marshall, who treated price as the dependent variable, responding to changes in quantity. Despite its departure from data visualization and mathematical norms, this approach persists because it aligns with traditional economic theory and teaching practices.
 
 Pearce (2022) emphasizes that thoughtfully breaking conventional visualization rules can enhance clarity and communication. Striking a balance between creativity and best practices ensures visualizations effectively convey their intended message.
+
+Having a look at a demand curve, price is placed on the vertical axis and quantity on the horizontal, reversing the mathematical convention where the independent variable appears on the horizontal axis. This practice originated with economists like Alfred Marshall, who treated price as the dependent variable responding to changes in quantity. Despite its unconventional nature, this axis choice persists due to its alignment with traditional economic theory and teaching.
+
+Greg from the  Economist had a response on "Who invented supply and demand?" through his blog post, where he stated: 
+
+“...given the way we now teach supply and demand, it makes more sense to have price on the horizontal axis. The price is viewed as the variable that determines quantity supplied and quantity demanded, and we usually put the dependent variable (which here is quantity) on the vertical axis.”  Mankiw G. (September 27, 2006) 
