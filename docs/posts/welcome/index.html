@@ -154,21 +154,45 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Data visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can obscure insights.</p>
 <p><img src="data_visualization.jpg" class="img-fluid"></p>
-<p>In economics, models are simplified representations of real-world scenarios based on underlying assumptions, while economic graphs serve to visualize and illustrate specific economic problems. In this context, we will examine common visualization practices and mistakes in economic theories, focusing on how effectively data is represented to capture and communicate complex economic phenomena.</p>
-<p>In some cases, the visualization graphs in use might not be a direct representation of the underlying economic problem in a bid to either follow the norm or to attain simplified representation for pedagogical purposes. - Lorenz Curve: Oversimplifies inequality by failing to capture distribution changes effectively.<br>
+<p>Data visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can obscure insights. Pearce (2022) emphasizes that thoughtfully breaking conventional visualization rules can enhance clarity and communication. Striking a balance between creativity and best practices ensures visualizations effectively convey their intended message.</p>
+<section id="models-and-graphs-in-economics" class="level2">
+<h2 class="anchored" data-anchor-id="models-and-graphs-in-economics">Models and Graphs in Economics</h2>
+<p>In economics, models are simplified representations of real-world scenarios based on underlying assumptions, while economic graphs serve to visualize and illustrate specific economic problems. In this context, we will examine common visualization practices and mistakes in economic theories, focusing on how effectively data is represented to capture and communicate complex economic phenomena. Some of the common mistakes raised around visualization of economic issues are misleading color contrast (and/or conceal), misleading charts, improper use of 3D graphics, wrong visualization method, confusing Correlations, vague charts, forcing a relationship by cherry-picking scales, over plotting (too much data), omitting baselines and truncating scale,zooming in on favorable data (biased representation), etc (see Bowers,n.d., Leo, 2019 and Pearce, 2022). The economist covered some of the major visualization issues they had in their analysis, some being intentionally overlooked in a bid for simplified communication of the topic to the general audience. See for example <a href="https://medium.economist.com/why-you-sometimes-need-to-break-the-rules-in-data-viz-4d8ece284919">this</a> article by Rosamund Pearce of the Economist who presented the reasons to break the rules in data visualization and other similar article by Sarah Leo on the visualization mistakes the Economist has made, <a href="https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368">here</a>.</p>
+</section>
+<section id="flaws-in-some-economic-graphical-representations" class="level2">
+<h2 class="anchored" data-anchor-id="flaws-in-some-economic-graphical-representations">Flaws in Some Economic Graphical Representations</h2>
+<p>At times, the visualization graphs in use might not be a direct representation of the underlying economic problem in a bid to either follow the norm or to attain simplified representation for pedagogical purposes. - Lorenz Curve: Oversimplifies inequality by failing to capture distribution changes effectively.<br>
 - Phillips Curve: Often misrepresents the inflation-unemployment relationship, especially in certain economic conditions.<br>
 - AD-AS Model: Oversimplifies complex market dynamics with smooth, unrealistic curves.<br>
 - Circular Flow Diagram: Ignores financial systems, global trade, and government intervention.<br>
 - Production Possibility Frontier (PPF): Assumes full efficiency, ignoring real-world limitations like resource imperfections.<br>
 - Supply and Demand Graphs: swaps the variables on the horizontal and vertical axis.</p>
 <p>Here, we will look into this by taking a use case from the graphical representation of the twin forces of the market.</p>
-<section id="twin-forces-of-the-market" class="level1">
-<h1>Twin Forces of the Market</h1>
+</section>
+<section id="use-case--twin-forces-of-the-market" class="level2">
+<h2 class="anchored" data-anchor-id="use-case--twin-forces-of-the-market">Use Case- Twin Forces of the Market</h2>
 <p>Demand and supply curves represent the twin forces of the market, illustrating the relationship between price and quantity. However, from a design perspective, these graphs deviate from standard data visualization conventions for dependent and independent variable axis representation. Theoretically, according to the law of demand and supply, quantity is the dependent variable influenced by price changes, along with other non-own price determinants of demand and supply. Yet, these graphs commonly place price on the vertical axis, implying the reverse relationship.</p>
 <p>This unconventional representation has sparked discussions, such as in <a href="https://hsm.stackexchange.com/questions/140/why-is-price-on-the-vertical-axis-and-quantity-on-the-horizontal-axis/5255#5255?newreg=455d14da88e247898c8b42507ac665ca">this thread</a> on Stack Exchange, suggesting that we have accepted these designs for their simplicity, even though they may lack clarity. The historical reasoning traces back to economists like Alfred Marshall, who treated price as the dependent variable, responding to changes in quantity. Despite its departure from data visualization and mathematical norms, this approach persists because it aligns with traditional economic theory and teaching practices.</p>
-<p>Pearce (2022) emphasizes that thoughtfully breaking conventional visualization rules can enhance clarity and communication. Striking a balance between creativity and best practices ensures visualizations effectively convey their intended message.</p>
+<p>(<a href="https://hsm.stackexchange.com/questions/140/why-is-price-on-the-vertical-axis-and-quantity-on-the-horizontal-axis/5255#5255?newreg=455d14da88e247898c8b42507ac665ca">see a tread in this stack overflow, for example</a>)that we are used to such representations of the curves for simplicity, but the graphs happen to vaguely be presented. Having a look at a demand curve, price is placed on the vertical axis and quantity on the horizontal, reversing the mathematical convention where the independent variable appears on the horizontal axis. This practice originated with economists like Alfred Marshall, who treated price as the dependent variable responding to changes in quantity. Despite its unconventional nature, this axis choice persists due to its alignment with traditional economic theory and teaching.</p>
+<p>Greg from the Economist had a response on “Who invented supply and demand?” through his blog post, where he stated:</p>
+<p>“…given the way we now teach supply and demand, it makes more sense to have price on the horizontal axis. The price is viewed as the variable that determines quantity supplied and quantity demanded, and we usually put the dependent variable (which here is quantity) on the vertical axis.” Mankiw G. (September 27, 2006)</p>
+</section>
+<section id="concluding-remarks" class="level2">
+<h2 class="anchored" data-anchor-id="concluding-remarks">Concluding Remarks</h2>
+<p>While mathematical formulations lay a foundation for presenting economic problems, other mathematical and visualization issues arise in the communications of core notions in science. Some are overlooked, while some persist in misleading the target audience about the underlying economic issue under consideration. Wrapping up, while many of the the visualizations remain as a guideline, reasonable deviation like color choice might be acceptable. Yet, the core foundations of the visual analytics should remain in tact for an effective communication of economic problems.</p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<ol type="1">
+<li>Bowers M. (n.d.). Numbers Shouldn’t Lie: An Overview of Common Data Visualization Mistakes, Designers, https://www.toptal.com/designers/ux/data-visualization-mistakes Accessed on November 10, 2022</li>
+<li>Greg Mankiw, (September, 27, 2006)Who invented supply and demand? http://gregmankiw.blogspot.com/2006/09/who-invented-supply-and-demand.html Accessed on November 10, 2022</li>
+<li>Leo S.(March 27, 2019) Mistakes, we’ve drawn a few, The Economist, https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368 Accessed on November 10, 2022</li>
+<li>Pearce R.(February 28, 2022) Why you sometimes need to break the rules in data viz, The Economist, https://medium.economist.com/why-you-sometimes-need-to-break-the-rules-in-data-viz-4d8ece284919 Accessed on November 10, 2022</li>
+<li>Schwabish, J. A. (2014). An economist’s guide to visualizing data. Journal of Economic Perspectives, 28(1), 209-34. https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209</li>
+<li>Pearce R.(February 28, 2022) Why you sometimes need to break the rules in data viz, The Economist, https://medium.economist.com/why-you-sometimes-need-to-break-the-rules-in-data-viz-4d8ece284919 Accessed on November 10, 2022</li>
+<li>StackExchange Contributors. (n.d.). <em>Why is price on the vertical axis and quantity on the horizontal axis?</em> History of Science and Mathematics Stack Exchange. Retrieved January 15, 2025, from <a href="https://hsm.stackexchange.com/questions/140/why-is-price-on-the-vertical-axis-and-quantity-on-the-horizontal-axis/5255">https://hsm.stackexchange.com/questions/140/why-is-price-on-the-vertical-axis-and-quantity-on-the-horizontal-axis/5255</a></li>
+</ol>
 
 
 </section>
