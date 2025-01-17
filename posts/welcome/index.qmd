@@ -34,7 +34,7 @@ Below are some examples of the general visualization flaws in the field of econo
   
 The aggregate demand- aggregate supply model (AD-AS Model) is a simplified representation of the national output captured through the national income and output. The graph uses smooth, downward-sloping aggregate demand, upward-sloping short run aggregate supply curve (SAS) and vertical long run aggregate supply (LAS) curves to represent economic dynamics and macroeconomic stability in the short-run and the long-run. The graph is limited in that it oversimplifies complex market dynamics with smooth, unrealistic curves.  
 
-![Fig 4. Aggregate Demand and Aggregate Supply, taken from @saylor2025)](AD_AS.jpg){width=400px}
+![Fig 4. Aggregate Demand and Aggregate Supply, taken from @saylor2025)](agregatedemand_supply.jpg){width=400px}
 
 - Supply and Demand Graphs: 
   
