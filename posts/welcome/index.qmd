@@ -2,7 +2,7 @@
 title: "Common Mistakes in Data Visualization- Axes Swap"
 author: "Abeba Nigussie Turi"
 date: "2025-01-16"
-categories: [news]
+categories: true
 ---
 
 
