@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Common Mistakes in Data Visualization- Axes Swap",
+    "section": "",
+    "text": "Fig 1. Visualization in Economics, OpenAI (2025)\nData visualization is a critical tool in data science, but common mistakes—such as using inappropriate chart types, overwhelming audiences with excessive data, or rigidly adhering to rules—can tilt insights. Pearce (2022), however, argues that thoughtfully breaking conventional visualization rules can enhance clarity and communication. In this article, I will be walking you through common visualization mistakes in the science of economics. quart"
+  },
+  {
+    "objectID": "posts/welcome/index.html#models-and-graphs-in-economics",
+    "href": "posts/welcome/index.html#models-and-graphs-in-economics",
+    "title": "Common Mistakes in Data Visualization- Axes Swap",
+    "section": "Models and Graphs in Economics",
+    "text": "Models and Graphs in Economics\nModels are simplified representations of real-world scenarios based on underlying assumptions, while economic graphs serve to visualize and illustrate the economic problems. In this context, we will examine common visualization practices and pitfalls in economic theories, focusing on how effectively data is represented to capture and communicate complex economic phenomena. Some of the common mistakes raised around visualization of economic issues are deluded color contrast, misleading charts, improper use of 3D graphics, wrong visualization method, confusing Correlations, vague charts, forcing a relationship by cherry-picking scales, over plotting (too much data), omitting baselines and truncating scale,zooming in on favorable data (biased representation), etc (see Bowers (n.d.), Leo (2019) and Pearce (2022))."
+  },
+  {
+    "objectID": "posts/welcome/index.html#flaws-in-some-economic-graphs",
+    "href": "posts/welcome/index.html#flaws-in-some-economic-graphs",
+    "title": "Common Mistakes in Data Visualization- Axes Swap",
+    "section": "Flaws in Some Economic Graphs",
+    "text": "Flaws in Some Economic Graphs\nAt times, the visualization graphs in use might not directly represent the underlying economic problem in a bid to either follow the norm or attain simplified representation for pedagogical purposes. For example, The Economist, one of the prominent newspapers in the field, covered some of the major visualization issues they had in their analysis, some of which were intentionally overlooked in a bid to simplify the communication of the topic to the general audience. See for example this article by Rosamund Pearce of the Economist who presented the reasons to break the rules in data visualization and other similar article by Leo (2019) on the visualization mistakes the Economist has made, here.\nBelow are some examples of the general visualization flaws in the field of economics to highlight:\n\nLorenz Curve\nAs part of income distribution models, Lorenz Curve is used for representing income or wealth inequality. The cumulative percentage of total income and the corresponding cumulative percentage of the population is depicted in this graph to capture the share of resources shared by the population in a given country. While it is a powerful tool to capture equitable resource distribution in an economy, it oversimplifies inequality by failing to capture distribution changes effectively.\n\n\n\n\nFig 2. Lorenz curve, taken from worldatlas2025\n\n\n\nPhillips Curve\nPhillips Curve is a graphical depiction of opposing economic forces: unemployment and inflation. The graph depicts the inverse relationship between these economic forces which lacks generalizability in the cases of some economic conditions, like stagflation (checkout the 1970s stagflation caused by oil crisis). The graphs comes with series of validity questions in relation to such misrepresentation issues of the inflation-unemployment relationship.\n\n\n\nFig 3. Phillips-Curve, taken from InflationData.com (2013)\n\n\nAD-AS Model:\n\nThe aggregate demand- aggregate supply model (AD-AS Model) is a simplified representation of the national output captured through the national income and output. The graph uses smooth, downward-sloping aggregate demand, upward-sloping short run aggregate supply curve (SAS) and vertical long run aggregate supply (LAS) curves to represent economic dynamics and macroeconomic stability in the short-run and the long-run. The graph is limited in that it oversimplifies complex market dynamics with smooth, unrealistic curves.\n\n\n\nFig 4. Aggregate Demand and Aggregate Supply, taken from Academy (2025))\n\n\n\nSupply and Demand Graphs:\nThe convetional micro-economic model of Twin Forces of the Market is well-known for its foundational depiction of market and its players in a simplistic presentation. While the model is a powerful tool to understand complex consumers’ and producers’ behaviour, it is a flawed depiction in that it swaps the variables, price and quantity, on the horizontal and vertical axis.\n\nLet us now look into this by taking a use case from the graphical representation of one of the twin forces of the market, demand by considering the Marshalian and Hicksican demand curves."
+  },
+  {
+    "objectID": "posts/welcome/index.html#use-case--the-demand-curve",
+    "href": "posts/welcome/index.html#use-case--the-demand-curve",
+    "title": "Common Mistakes in Data Visualization- Axes Swap",
+    "section": "Use Case- The Demand Curve",
+    "text": "Use Case- The Demand Curve\nDemand and supply curves represent the twin forces of the market, illustrating the relationship between price and quantity. However, from a design perspective, these graphs deviate from standard data visualization conventions for dependent and independent variable axis representation. Theoretically, according to the law of demand and supply, quantity is the dependent variable influenced by price changes, along with other non-own price determinants of demand and supply. Yet, these graphs commonly place price on the vertical axis, implying the reverse relationship.\nThis unconventional representation has sparked discussions, such as in this thread on Stack Exchange, stating that such design flows are accepted for their simplicity, even though they may lack clarity. The historical reasoning traces back to economists like Alfred Marshall, who treated price as the dependent variable, responding to changes in quantity. Despite its departure from data visualization and mathematical norms, this approach persists because it aligns with traditional economic theory and teaching practices.\n(see a tread in this stack overflow, for example)that we are used to such representations of the curves for simplicity, but the graphs happen to vaguely be presented. Having a look at a demand curve, price is placed on the vertical axis and quantity on the horizontal, reversing the mathematical convention where the independent variable appears on the horizontal axis. This practice originated with economists like Alfred Marshall, who treated price as the dependent variable responding to changes in quantity. Despite its unconventional nature, this axis choice persists due to its alignment with traditional economic theory and teaching.\n\n\n\nFig 5. Hicksican and Marshalian Demand Curves, adapted from Silberberg (2008)\n\n\nGreg from the Economist had a response on “Who invented supply and demand?” through his blog post, where he stated:\n“…given the way we now teach supply and demand, it makes more sense to have price on the horizontal axis. The price is viewed as the variable that determines quantity supplied and quantity demanded, and we usually put the dependent variable (which here is quantity) on the vertical axis.” - Mankiw (2006)"
+  },
+  {
+    "objectID": "posts/welcome/index.html#concluding-remarks",
+    "href": "posts/welcome/index.html#concluding-remarks",
+    "title": "Common Mistakes in Data Visualization- Axes Swap",
+    "section": "Concluding Remarks",
+    "text": "Concluding Remarks\nWhile mathematical formulations lay a foundation for presenting economic problems, other mathematical and visualization issues arise in the communications few of the core economic notions and theories. Some of these issues are overlooked, while some persist in misleading the target audience about the underlying economic issue. Wrapping up, while conventional presentations and norms in the field appear to be at ease to visualize economic problems, striking a balance between creativity and best practices ensures visualizations effectively convey their intended message. This should be with a due consideration that the core foundations of visual analytics remain in tact for an effective communication of economic problems."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog1",
+    "section": "",
+    "text": "Common Mistakes in Data Visualization- Axes Swap\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2025\n\n\nAbeba Nigussie Turi\n\n\n\n\n\n\nNo matching items"
+  }
+]
