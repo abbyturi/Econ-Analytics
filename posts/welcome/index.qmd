@@ -21,6 +21,9 @@ Below are some examples of the general visualization flaws in the field of econo
 - Lorenz Curve 
   
   As part of income distribution models, Lorenz Curve is used for representing  income or wealth inequality. The cumulative percentage of total income and the corresponding cumulative percentage of the population is depicted in this graph to capture the share of resources shared by the population in a given country. While it is a powerful tool to capture equitable resource distribution in an economy, it oversimplifies inequality by failing to capture distribution changes effectively.  
+
+[Lorenz curve, taken from worldatlas2025](Lorenz-curve.jpg)
+
 - Phillips Curve
   
   Phillips Curve is a graphical depiction of opposing economic forces: unemployment and inflation. The graph depicts the inverse relationship between these economic forces which lacks generalizability in the cases of some economic conditions, like stagflation (checkout the 1970s stagflation  caused by oil crisis). The graphs comes with series of validity questions in relation to such misrepresentation issues of the inflation-unemployment relationship.
@@ -28,6 +31,8 @@ Below are some examples of the general visualization flaws in the field of econo
 - AD-AS Model: 
   
 The aggregate demand- aggregate supply model (AD-AS Model) is a simplified representation of the national output captured through the national income and output. The graph uses smooth, downward-sloping aggregate demand, upward-sloping short run aggregate supply curve and vertical long run aggregate supply curves to represent economic dynamics and macroeconomic stability in the short-run and the long-run. The graph is limited in that it oversimplifies complex market dynamics with smooth, unrealistic curves.  
+
+[Aggregate Demand and Aggregate Supply (LAS- Longrun aggregate supply and SAS- Shortrun Aggregate Supply, taken from @saylor2025)](AD_AS.jpg)
 - Supply and Demand Graphs: 
   
   The convetional micro-economic model of Twin Forces of the Market is well-known for its foundational depiction of market and its players in a simplistic presentation. While the model is a powerful tool to understand complex consumers' and producers' behaviour, it is a flawed depiction in that it swaps the variables, price and quantity, on the horizontal and vertical axis. 
